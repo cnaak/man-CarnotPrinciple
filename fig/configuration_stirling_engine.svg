@@ -1,0 +1,837 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg8"
+   sodipodi:docname="configuration_stirling_engine.svg"
+   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)">
+  <defs
+     id="defs2">
+    <meshgradient
+       inkscape:collect="always"
+       id="meshgradient2397"
+       gradientUnits="userSpaceOnUse"
+       x="9.9947777"
+       y="51.115463"
+       gradientTransform="matrix(1.1643558,0,0,0.99760585,-2.7064623,0.12833767)">
+      <meshrow
+         id="meshrow2399">
+        <meshpatch
+           id="meshpatch2401">
+          <stop
+             path="c 4.29177,0  8.58355,0  12.8753,0"
+             style="stop-color:#ffffff;stop-opacity:1"
+             id="stop2403" />
+          <stop
+             path="c 0,1.65951  0,3.31901  0,4.97852"
+             style="stop-color:#000000;stop-opacity:1"
+             id="stop2405" />
+          <stop
+             path="c -4.29177,0  -8.58355,0  -12.8753,0"
+             style="stop-color:#ffffff;stop-opacity:1"
+             id="stop2407" />
+          <stop
+             path="c 0,-1.65951  0,-3.31901  0,-4.97852"
+             style="stop-color:#000000;stop-opacity:1"
+             id="stop2409" />
+        </meshpatch>
+      </meshrow>
+    </meshgradient>
+    <meshgradient
+       inkscape:collect="always"
+       id="meshgradient2565"
+       gradientUnits="userSpaceOnUse"
+       x="66.785782"
+       y="44.592098"
+       gradientTransform="matrix(1.1643974,0,0,0.99558856,-35.387222,27.933782)">
+      <meshrow
+         id="meshrow2567">
+        <meshpatch
+           id="meshpatch2569">
+          <stop
+             path="c 4.29177,0  8.58355,0  12.8753,0"
+             style="stop-color:#ffffff;stop-opacity:1"
+             id="stop2571" />
+          <stop
+             path="c 0,1.65951  0,3.31901  0,4.97852"
+             style="stop-color:#000000;stop-opacity:1"
+             id="stop2573" />
+          <stop
+             path="c -4.29177,0  -8.58355,0  -12.8753,0"
+             style="stop-color:#ffffff;stop-opacity:1"
+             id="stop2575" />
+          <stop
+             path="c 0,-1.65951  0,-3.31901  0,-4.97852"
+             style="stop-color:#000000;stop-opacity:1"
+             id="stop2577" />
+        </meshpatch>
+      </meshrow>
+    </meshgradient>
+    <meshgradient
+       inkscape:collect="always"
+       id="meshgradient2683"
+       gradientUnits="userSpaceOnUse"
+       x="98.755768"
+       y="-34.919609">
+      <meshrow
+         id="meshrow2685">
+        <meshpatch
+           id="meshpatch2687">
+          <stop
+             path="c 2.3151,0  4.63021,0  6.94531,0"
+             style="stop-color:#ffffff;stop-opacity:1"
+             id="stop2689" />
+          <stop
+             path="c 0,1.65365  0,3.30729  0,4.96094"
+             style="stop-color:#000000;stop-opacity:1"
+             id="stop2691" />
+          <stop
+             path="c -2.3151,0  -4.63021,0  -6.94531,0"
+             style="stop-color:#ffffff;stop-opacity:1"
+             id="stop2693" />
+          <stop
+             path="c 0,-1.65365  0,-3.30729  0,-4.96094"
+             style="stop-color:#000000;stop-opacity:1"
+             id="stop2695" />
+        </meshpatch>
+      </meshrow>
+    </meshgradient>
+    <meshgradient
+       inkscape:collect="always"
+       id="meshgradient3103"
+       gradientUnits="userSpaceOnUse"
+       x="-65.881607"
+       y="106.53817"
+       gradientTransform="translate(0.00190071,-4.2333328)">
+      <meshrow
+         id="meshrow3105">
+        <meshpatch
+           id="meshpatch3107">
+          <stop
+             path="c 4.99733,0  9.99466,0  14.992,0"
+             style="stop-color:#ffffff;stop-opacity:1"
+             id="stop3109" />
+          <stop
+             path="c 0,1.65219  0,3.30437  0,4.95656"
+             style="stop-color:#000000;stop-opacity:1"
+             id="stop3111" />
+          <stop
+             path="c -4.99733,0  -9.99466,0  -14.992,0"
+             style="stop-color:#ffffff;stop-opacity:1"
+             id="stop3113" />
+          <stop
+             path="c 0,-1.65219  0,-3.30437  0,-4.95656"
+             style="stop-color:#000000;stop-opacity:1"
+             id="stop3115" />
+        </meshpatch>
+      </meshrow>
+    </meshgradient>
+    <meshgradient
+       inkscape:collect="always"
+       id="meshgradient3171"
+       gradientUnits="userSpaceOnUse"
+       x="-65.872253"
+       y="77.450577">
+      <meshrow
+         id="meshrow3173">
+        <meshpatch
+           id="meshpatch3175">
+          <stop
+             path="c 4.99733,0  9.99466,0  14.992,0"
+             style="stop-color:#ffffff;stop-opacity:1"
+             id="stop3177" />
+          <stop
+             path="c 0,1.65219  0,3.30437  0,4.95656"
+             style="stop-color:#000000;stop-opacity:1"
+             id="stop3179" />
+          <stop
+             path="c -4.99733,0  -9.99466,0  -14.992,0"
+             style="stop-color:#ffffff;stop-opacity:1"
+             id="stop3181" />
+          <stop
+             path="c 0,-1.65219  0,-3.30437  0,-4.95656"
+             style="stop-color:#000000;stop-opacity:1"
+             id="stop3183" />
+        </meshpatch>
+      </meshrow>
+    </meshgradient>
+    <meshgradient
+       inkscape:collect="always"
+       id="meshgradient3473"
+       gradientUnits="userSpaceOnUse"
+       x="-65.895088"
+       y="141.65707">
+      <meshrow
+         id="meshrow3475">
+        <meshpatch
+           id="meshpatch3477">
+          <stop
+             path="c 4.99733,0  9.99466,0  14.992,0"
+             style="stop-color:#ffffff;stop-opacity:1"
+             id="stop3479" />
+          <stop
+             path="c 0,1.65219  0,3.30437  0,4.95656"
+             style="stop-color:#000000;stop-opacity:1"
+             id="stop3481" />
+          <stop
+             path="c -4.99733,0  -9.99466,0  -14.992,0"
+             style="stop-color:#ffffff;stop-opacity:1"
+             id="stop3483" />
+          <stop
+             path="c 0,-1.65219  0,-3.30437  0,-4.95656"
+             style="stop-color:#000000;stop-opacity:1"
+             id="stop3485" />
+        </meshpatch>
+      </meshrow>
+    </meshgradient>
+    <meshgradient
+       inkscape:collect="always"
+       id="meshgradient3487"
+       gradientUnits="userSpaceOnUse"
+       x="-90.701729"
+       y="180.22316">
+      <meshrow
+         id="meshrow3489">
+        <meshpatch
+           id="meshpatch3491">
+          <stop
+             path="c 4.99733,0  9.99466,0  14.992,0"
+             style="stop-color:#ffffff;stop-opacity:1"
+             id="stop3493" />
+          <stop
+             path="c 0,1.65219  0,3.30437  0,4.95656"
+             style="stop-color:#000000;stop-opacity:1"
+             id="stop3495" />
+          <stop
+             path="c -4.99733,0  -9.99466,0  -14.992,0"
+             style="stop-color:#ffffff;stop-opacity:1"
+             id="stop3497" />
+          <stop
+             path="c 0,-1.65219  0,-3.30437  0,-4.95656"
+             style="stop-color:#000000;stop-opacity:1"
+             id="stop3499" />
+        </meshpatch>
+      </meshrow>
+    </meshgradient>
+    <meshgradient
+       inkscape:collect="always"
+       id="meshgradient3613"
+       gradientUnits="userSpaceOnUse"
+       x="98.755783"
+       y="-107.15092">
+      <meshrow
+         id="meshrow3615">
+        <meshpatch
+           id="meshpatch3617">
+          <stop
+             path="c 2.3151,0  4.63021,0  6.94531,0"
+             style="stop-color:#ffffff;stop-opacity:1"
+             id="stop3619" />
+          <stop
+             path="c 0,1.65365  0,3.30729  0,4.96094"
+             style="stop-color:#000000;stop-opacity:1"
+             id="stop3621" />
+          <stop
+             path="c -2.3151,0  -4.63021,0  -6.94531,0"
+             style="stop-color:#ffffff;stop-opacity:1"
+             id="stop3623" />
+          <stop
+             path="c 0,-1.65365  0,-3.30729  0,-4.96094"
+             style="stop-color:#000000;stop-opacity:1"
+             id="stop3625" />
+        </meshpatch>
+      </meshrow>
+    </meshgradient>
+    <meshgradient
+       inkscape:collect="always"
+       id="meshgradient3627"
+       gradientUnits="userSpaceOnUse"
+       x="98.755798"
+       y="-184.93764">
+      <meshrow
+         id="meshrow3629">
+        <meshpatch
+           id="meshpatch3631">
+          <stop
+             path="c 2.3151,0  4.63021,0  6.94531,0"
+             style="stop-color:#ffffff;stop-opacity:1"
+             id="stop3633" />
+          <stop
+             path="c 0,1.65365  0,3.30729  0,4.96094"
+             style="stop-color:#000000;stop-opacity:1"
+             id="stop3635" />
+          <stop
+             path="c -2.3151,0  -4.63021,0  -6.94531,0"
+             style="stop-color:#ffffff;stop-opacity:1"
+             id="stop3637" />
+          <stop
+             path="c 0,-1.65365  0,-3.30729  0,-4.96094"
+             style="stop-color:#000000;stop-opacity:1"
+             id="stop3639" />
+        </meshpatch>
+      </meshrow>
+    </meshgradient>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.4142136"
+     inkscape:cx="449.51082"
+     inkscape:cy="841.42238"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1001"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Camada 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:#000000;fill-opacity:0;fill-rule:nonzero;stroke:#000000;stroke-width:0.25094;stroke-opacity:1"
+       id="rect2281"
+       width="200.0107"
+       height="89.948029"
+       x="5.3400416"
+       y="28.375788" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 23.95353,40.42125 C 42.228584,40.28762 42.36222,40.28762 42.36222,40.28762"
+       id="path2312"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 8.9535293,40.42125 c 0,39.999999 0,39.999999 0,39.999999 H 23.953529 c 0,-40 0,-40 0,-40"
+       id="path2322"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 42.362217,40.287619 c 0,39.999999 0,39.999999 0,39.999999 15,3e-6 15,3e-6 15,3e-6 0,-40 0,-40 0,-40"
+       id="path2324"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 8.9535293,80.421249 H 23.953529 v 0"
+       id="path2326"
+       inkscape:connector-curvature="0" />
+    <rect
+       style="fill:#000000;fill-opacity:0;fill-rule:nonzero;stroke:#000000;stroke-width:0.08647999;stroke-opacity:1"
+       id="rect2360"
+       width="12.87532"
+       height="4.9785199"
+       x="9.9947777"
+       y="51.115463" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.21369077px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 15.969494,51.031994 c 0,-10.725075 0,-10.725075 0,-10.725075"
+       id="path2381"
+       inkscape:connector-curvature="0" />
+    <rect
+       style="fill:url(#meshgradient2397);fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.28515753;stroke-opacity:1"
+       id="rect2385"
+       width="14.991456"
+       height="4.9665999"
+       x="8.931015"
+       y="51.121422" />
+    <rect
+       style="fill:#000000;fill-opacity:0;fill-rule:nonzero;stroke:#000000;stroke-width:0.08647999;stroke-opacity:1"
+       id="rect2360-5"
+       width="12.87532"
+       height="4.9785199"
+       x="43.436302"
+       y="72.307205" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.21369077px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 49.411015,72.223731 c 0,-10.725075 0,-10.725075 0,-10.725075"
+       id="path2381-4"
+       inkscape:connector-curvature="0" />
+    <rect
+       style="fill:url(#meshgradient2565);fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.28487414;stroke-opacity:1"
+       id="rect2385-9"
+       width="14.99199"
+       height="4.9565573"
+       x="42.377968"
+       y="72.32917" />
+    <rect
+       style="opacity:0.5;fill:#000000;fill-opacity:0;fill-rule:nonzero;stroke:#000000;stroke-width:0.26458332;stroke-opacity:1"
+       id="rect2585"
+       width="6.9453125"
+       height="4.9609375"
+       x="18.454687"
+       y="99.554688" />
+    <rect
+       style="opacity:0.5;fill:#000000;fill-opacity:0;fill-rule:nonzero;stroke:#000000;stroke-width:0.26458332;stroke-opacity:1"
+       id="rect2585-2"
+       width="6.9453125"
+       height="4.9609375"
+       x="40.282833"
+       y="99.554688" />
+    <rect
+       style="opacity:0.25;fill:url(#meshgradient2683);fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.26458332;stroke-opacity:1"
+       id="rect2585-7"
+       width="6.9453125"
+       height="4.9609375"
+       x="98.755768"
+       y="-34.919609"
+       transform="rotate(90)" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 25.333854,102.00208 c 4.564062,0.0661 4.597135,0.0661 4.597135,0.0661"
+       id="path2648"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 34.991145,102.13437 c 5.291667,-0.0992 5.291667,-0.0992 5.291667,-0.0992"
+       id="path2654"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.14256172px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 16.040344,102.03515 c 2.381251,0 2.381251,0 2.381251,0"
+       id="path2656"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.14550143px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 47.161983,102.03517 c 2.480469,0 2.480469,0 2.480469,0"
+       id="path2656-2"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 16.036172,80.511681 c 0.0042,21.523469 0.0042,21.523469 0.0042,21.523469"
+       id="path2697"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 49.712131,80.244412 c -0.06968,21.790758 -0.06968,21.790758 -0.06968,21.790758"
+       id="path2699"
+       inkscape:connector-curvature="0" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot2703"
+       style="fill:black;fill-opacity:1;stroke:none;font-family:sans-serif;font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;letter-spacing:0px;word-spacing:0px"><flowRegion
+         id="flowRegion2705"><rect
+           id="rect2707"
+           width="104.5"
+           height="76"
+           x="258.5"
+           y="225.51968" /></flowRegion><flowPara
+         id="flowPara2709"></flowPara></flowRoot>    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="11.101153"
+       y="68.544807"
+       id="text2713"><tspan
+         sodipodi:role="line"
+         x="11.101153"
+         y="68.544807"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.46944451px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332"
+         id="tspan2719">Hot piston</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="43.938549"
+       y="51.179539"
+       id="text2713-7"><tspan
+         sodipodi:role="line"
+         x="43.938549"
+         y="51.179539"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.46944451px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332"
+         id="tspan2719-7">Cold piston</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="26.728058"
+       y="109.022"
+       id="text2713-7-6"><tspan
+         sodipodi:role="line"
+         x="26.728058"
+         y="109.022"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.46944451px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332"
+         id="tspan2719-7-0">Regenerator</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="42.555882"
+       y="108.03788"
+       id="text2713-7-2"><tspan
+         sodipodi:role="line"
+         x="42.555882"
+         y="108.03788"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.46944451px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332"
+         id="tspan2719-7-2">Cooler</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="16.097525"
+       y="108.03788"
+       id="text2713-7-8"><tspan
+         sodipodi:role="line"
+         x="16.097525"
+         y="108.03788"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.46944451px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332"
+         id="tspan2719-7-02">Heater</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="23.11278"
+       y="36.440365"
+       id="text2713-7-1"><tspan
+         sodipodi:role="line"
+         x="23.11278"
+         y="36.440365"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.46944451px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332"
+         id="tspan2719-7-3">Configuration alpha</tspan></text>
+    <rect
+       style="opacity:0.5;fill:#000000;fill-opacity:0;fill-rule:nonzero;stroke:#000000;stroke-width:0.26458332;stroke-opacity:1"
+       id="rect2585-4"
+       width="6.9453125"
+       height="4.9609375"
+       x="90.685997"
+       y="99.554703" />
+    <rect
+       style="opacity:0.5;fill:#000000;fill-opacity:0;fill-rule:nonzero;stroke:#000000;stroke-width:0.26458332;stroke-opacity:1"
+       id="rect2585-2-8"
+       width="6.9453125"
+       height="4.9609375"
+       x="112.51414"
+       y="99.554703" />
+    <rect
+       style="opacity:0.25;fill:url(#meshgradient3613);fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.26458332;stroke-opacity:1"
+       id="rect2585-7-3"
+       width="6.9453125"
+       height="4.9609375"
+       x="98.755783"
+       y="-107.15092"
+       transform="rotate(90)" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 97.565153,102.0021 c 4.564077,0.0661 4.597147,0.0661 4.597147,0.0661"
+       id="path2648-7"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 107.22248,102.13439 c 5.2917,-0.0992 5.2917,-0.0992 5.2917,-0.0992"
+       id="path2654-5"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.14256173px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 88.271643,102.03517 c 2.381251,0 2.381251,0 2.381251,0"
+       id="path2656-5"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.14550143px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 119.39339,102.03519 c 2.48048,0 2.48048,0 2.48048,0"
+       id="path2656-2-6"
+       inkscape:connector-curvature="0" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="98.959366"
+       y="109.02202"
+       id="text2713-7-6-0"><tspan
+         sodipodi:role="line"
+         x="98.959366"
+         y="109.02202"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.46944451px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332"
+         id="tspan2719-7-0-3">Regenerator</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 74.525577,65.863786 c 39.999843,-0.01796 39.999843,-0.01796 39.999843,-0.01796 -0.007,-14.999998 -0.007,-14.999998 -0.007,-14.999998 -39.999853,0.01796 -39.999853,0.01796 -39.999853,0.01796"
+       id="path2324-2"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.21369077px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 102.22501,58.800657 c -10.725019,0.0048 -10.725019,0.0048 -10.725019,0.0048"
+       id="path2381-4-3"
+       inkscape:connector-curvature="0" />
+    <rect
+       style="fill:url(#meshgradient3103);fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.28487414;stroke-opacity:1"
+       id="rect2385-9-9"
+       width="14.99199"
+       height="4.9565573"
+       x="-65.879715"
+       y="102.30485"
+       transform="rotate(-90.025725)" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 114.43229,58.67656 c 7.34219,0.132295 7.34219,0.132295 7.34219,0.132295"
+       id="path3089"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 121.77448,58.808855 c 0.0994,43.226335 0.0994,43.226335 0.0994,43.226335"
+       id="path3093"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.21369077px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 77.311701,58.805457 c -10.725019,0.0048 -10.725019,0.0048 -10.725019,0.0048"
+       id="path2381-4-3-1"
+       inkscape:connector-curvature="0" />
+    <rect
+       style="fill:url(#meshgradient3171);fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.28487414;stroke-opacity:1"
+       id="rect2385-9-9-4"
+       width="14.99199"
+       height="4.9565573"
+       x="-65.872253"
+       y="77.450577"
+       transform="rotate(-90.025725)" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="69.489723"
+       y="46.756992"
+       id="text2713-7-8-6-4"><tspan
+         sodipodi:role="line"
+         x="69.489723"
+         y="46.756992"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.46944451px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332"
+         id="tspan2719-7-02-1-2">Power piston</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="108.74349"
+       y="47.037628"
+       id="text2713-7-8-6-3"><tspan
+         sodipodi:role="line"
+         x="108.74349"
+         y="47.037628"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.46944451px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332"
+         id="tspan2719-7-02-1-3">Displacer</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="90.589798"
+       y="36.447086"
+       id="text2713-7-1-5"><tspan
+         sodipodi:role="line"
+         x="90.589798"
+         y="36.447086"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.46944451px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332"
+         id="tspan2719-7-3-2">Configuration beta</tspan></text>
+    <rect
+       style="opacity:0.5;fill:#000000;fill-opacity:0;fill-rule:nonzero;stroke:#000000;stroke-width:0.26458332;stroke-opacity:1"
+       id="rect2585-3"
+       width="6.9453125"
+       height="4.9609375"
+       x="168.47296"
+       y="99.554703" />
+    <rect
+       style="opacity:0.5;fill:#000000;fill-opacity:0;fill-rule:nonzero;stroke:#000000;stroke-width:0.26458332;stroke-opacity:1"
+       id="rect2585-2-84"
+       width="6.9453125"
+       height="4.9609375"
+       x="190.3008"
+       y="99.554703" />
+    <rect
+       style="opacity:0.25;fill:url(#meshgradient3627);fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.26458332;stroke-opacity:1"
+       id="rect2585-7-5"
+       width="6.9453125"
+       height="4.9609375"
+       x="98.755798"
+       y="-184.93764"
+       transform="rotate(90)" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 175.35314,102.0021 c 4.56407,0.0661 4.59715,0.0661 4.59715,0.0661"
+       id="path2648-5"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 185.01044,102.13439 c 5.29167,-0.0992 5.29167,-0.0992 5.29167,-0.0992"
+       id="path2654-3"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.23641536px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 161.89218,102.03517 c 6.54866,0 6.54866,0 6.54866,0"
+       id="path2656-20"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.14550143px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 197.18128,102.03519 c 2.48047,0 2.48047,0 2.48047,0"
+       id="path2656-2-7"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.19218972px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 161.98039,90.650821 c 0.004,11.356579 0.004,11.356579 0.004,11.356579"
+       id="path2697-9"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.24436364px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 199.73143,83.447709 c -0.0697,18.587481 -0.0697,18.587481 -0.0697,18.587481"
+       id="path2699-5"
+       inkscape:connector-curvature="0" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="176.74622"
+       y="109.02202"
+       id="text2713-7-6-1"><tspan
+         sodipodi:role="line"
+         x="176.74622"
+         y="109.02202"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.46944451px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332"
+         id="tspan2719-7-0-31">Regenerator</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.23094237px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 161.98039,90.650821 c 30.47478,-0.01796 30.47478,-0.01796 30.47478,-0.01796 -0.006,-14.999999 -0.006,-14.999999 -0.006,-14.999999 -30.47479,0.01796 -30.47479,0.01796 -30.47479,0.01796"
+       id="path2324-2-7"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.21369077px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 180.15477,83.587692 c -10.72502,0.0048 -10.72502,0.0048 -10.72502,0.0048"
+       id="path2381-4-3-3"
+       inkscape:connector-curvature="0" />
+    <rect
+       style="fill:url(#meshgradient3487);fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.28487414;stroke-opacity:1"
+       id="rect2385-9-9-7"
+       width="14.99199"
+       height="4.9565573"
+       x="-90.701729"
+       y="180.22316"
+       transform="rotate(-90.025725)" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 192.36205,83.463595 c 7.34219,0.132295 7.34219,0.132295 7.34219,0.132295"
+       id="path3089-8"
+       inkscape:connector-curvature="0" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="180.07942"
+       y="70.982765"
+       id="text2713-7-8-6-3-0"><tspan
+         sodipodi:role="line"
+         x="180.07942"
+         y="70.982765"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.46944451px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332"
+         id="tspan2719-7-02-1-3-1">Displacer</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.2000847px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 131.00358,65.861623 c 22.87503,-0.01796 22.87503,-0.01796 22.87503,-0.01796 -0.004,-14.999998 -0.004,-14.999998 -0.004,-14.999998 -22.87503,0.01796 -22.87503,0.01796 -22.87503,0.01796"
+       id="path2324-2-5"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.21369077px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 141.5782,58.798494 c -10.72504,0.0048 -10.72504,0.0048 -10.72504,0.0048"
+       id="path2381-4-3-0"
+       inkscape:connector-curvature="0" />
+    <rect
+       style="fill:url(#meshgradient3473);fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.28487414;stroke-opacity:1"
+       id="rect2385-9-9-49"
+       width="14.99199"
+       height="4.9565573"
+       x="-65.895088"
+       y="141.65707"
+       transform="rotate(-90.025725)" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="138.52104"
+       y="70.850494"
+       id="text2713-7-8-6-4-6"><tspan
+         sodipodi:role="line"
+         x="138.52104"
+         y="70.850494"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.46944451px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332"
+         id="tspan2719-7-02-1-2-4">Power piston</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.18654962px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 162.09097,58.793695 c -8.17653,0.0048 -8.17653,0.0048 -8.17653,0.0048"
+       id="path2381-4-3-0-7"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 161.98039,90.650821 c 0.11058,-31.857127 0.11058,-31.857127 0.11058,-31.857127 v 0"
+       id="path3471"
+       inkscape:connector-curvature="0" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="156.75769"
+       y="36.513229"
+       id="text2713-7-1-5-5"><tspan
+         sodipodi:role="line"
+         x="156.75769"
+         y="36.513229"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.46944451px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332"
+         id="tspan2719-7-3-2-0">Configuration gamma</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="166.7332"
+       y="108.02415"
+       id="text2713-7-2-20-8"><tspan
+         sodipodi:role="line"
+         x="166.7332"
+         y="108.02415"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.46944451px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332"
+         id="tspan2719-7-2-01-1">Cooler</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="191.59995"
+       y="107.99918"
+       id="text2713-7-8-6-42"><tspan
+         sodipodi:role="line"
+         x="191.59995"
+         y="107.99918"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.46944451px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332"
+         id="tspan2719-7-02-1-25">Heater</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="114.91122"
+       y="108.03426"
+       id="text2713-7-8-6-7"><tspan
+         sodipodi:role="line"
+         x="114.91122"
+         y="108.03426"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.46944451px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332"
+         id="tspan2719-7-02-1-34">Heater</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="88.526649"
+       y="108.02053"
+       id="text2713-7-2-2-7"><tspan
+         sodipodi:role="line"
+         x="88.526649"
+         y="108.02053"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.46944451px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332"
+         id="tspan2719-7-2-0-4">Cooler</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 88.271643,102.03517 c -0.0331,-36.148714 -0.0331,-36.148714 -0.0331,-36.148714"
+       id="path3641"
+       inkscape:connector-curvature="0" />
+  </g>
+</svg>
