@@ -9,12 +9,12 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="210mm"
-   height="297mm"
-   viewBox="0 0 210 297"
+   width="160pt"
+   height="220pt"
+   viewBox="0 0 56.444446 77.61111"
    version="1.1"
    id="svg8"
-   sodipodi:docname="stirling_engine_type_alpha.svg"
+   sodipodi:docname="stirling_engine_alpha_gray.svg"
    inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)">
   <defs
      id="defs2">
@@ -24,7 +24,7 @@
        gradientUnits="userSpaceOnUse"
        x="9.9947777"
        y="51.115463"
-       gradientTransform="matrix(1.1643558,0,0,0.99760585,59.96824,-3.0521696)">
+       gradientTransform="matrix(1.1643558,0,0,0.99760585,59.968237,216.33673)">
       <meshrow
          id="meshrow2399">
         <meshpatch
@@ -54,7 +54,7 @@
        gradientUnits="userSpaceOnUse"
        x="66.785782"
        y="44.592098"
-       gradientTransform="matrix(1.1643974,0,0,0.99558856,27.287481,24.753275)">
+       gradientTransform="matrix(1.1643974,0,0,0.99558856,27.287481,244.14218)">
       <meshrow
          id="meshrow2567">
         <meshpatch
@@ -84,7 +84,7 @@
        gradientUnits="userSpaceOnUse"
        x="98.755768"
        y="-34.919609"
-       gradientTransform="translate(-3.1805073,-62.674703)">
+       gradientTransform="translate(216.2084,-62.674708)">
       <meshrow
          id="meshrow2685">
         <meshpatch
@@ -116,17 +116,27 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="2.8284272"
-     inkscape:cx="247.47715"
-     inkscape:cy="905.34136"
-     inkscape:document-units="mm"
+     inkscape:zoom="2.7852273"
+     inkscape:cx="106.66667"
+     inkscape:cy="146.66667"
+     inkscape:document-units="pt"
      inkscape:current-layer="layer1"
-     showgrid="false"
+     showgrid="true"
      inkscape:window-width="1920"
      inkscape:window-height="1001"
      inkscape:window-x="-9"
      inkscape:window-y="-9"
-     inkscape:window-maximized="1" />
+     inkscape:window-maximized="1"
+     units="pt">
+    <inkscape:grid
+       type="xygrid"
+       id="grid1953"
+       spacingx="0.35277778"
+       spacingy="0.35277778"
+       empspacing="5"
+       dotted="true"
+       units="pt" />
+  </sodipodi:namedview>
   <metadata
      id="metadata5">
     <rdf:RDF>
@@ -135,32 +145,33 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
   <g
      inkscape:label="Camada 1"
      inkscape:groupmode="layer"
-     id="layer1">
+     id="layer1"
+     transform="translate(0,-219.3889)">
     <path
        style="fill:none;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 86.628233,37.240743 c 18.275057,-0.13363 18.408687,-0.13363 18.408687,-0.13363"
+       d="m 18.55029,224.33852 c 18.275057,-0.13363 18.408687,-0.13363 18.408687,-0.13363"
        id="path2312"
        inkscape:connector-curvature="0" />
     <path
        style="fill:none;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 71.628232,37.240743 c 0,39.999999 0,39.999999 0,39.999999 h 15 c 0,-40 0,-40 0,-40"
+       d="m 3.550289,224.33852 c 0,40 0,40 0,40 h 15 c 0,-40 0,-40 0,-40"
        id="path2322"
        inkscape:connector-curvature="0" />
     <path
        style="fill:none;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 105.03692,37.107112 c 0,39.999999 0,39.999999 0,39.999999 15,3e-6 15,3e-6 15,3e-6 0,-40 0,-40 0,-40"
+       d="m 36.958977,224.20489 c 0,40 0,40 0,40 15,0 15,0 15,0 0,-40 0,-40 0,-40"
        id="path2324"
        inkscape:connector-curvature="0" />
     <path
        style="fill:none;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 71.628232,77.240742 h 15 v 0"
+       d="m 3.550289,264.33852 h 15 v 0"
        id="path2326"
        inkscape:connector-curvature="0" />
     <rect
@@ -168,11 +179,11 @@
        id="rect2360"
        width="12.87532"
        height="4.9785199"
-       x="72.669479"
-       y="47.934956" />
+       x="4.5915365"
+       y="235.03273" />
     <path
        style="fill:none;stroke:#000000;stroke-width:0.21369077px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 79.173364,47.851487 c 0,-10.725075 0,-10.725075 0,-10.725075"
+       d="m 11.095421,234.94927 c 0,-10.72508 0,-10.72508 0,-10.72508"
        id="path2381"
        inkscape:connector-curvature="0" />
     <rect
@@ -180,18 +191,18 @@
        id="rect2385"
        width="14.991456"
        height="4.9665999"
-       x="71.605721"
-       y="47.940914" />
+       x="3.5277774"
+       y="235.0387" />
     <rect
        style="fill:#000000;fill-opacity:0;fill-rule:nonzero;stroke:#000000;stroke-width:0.08647999;stroke-opacity:1"
        id="rect2360-5"
        width="12.87532"
        height="4.9785199"
-       x="106.11101"
-       y="69.126701" />
+       x="38.033066"
+       y="256.22449" />
     <path
        style="fill:none;stroke:#000000;stroke-width:0.21369077px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 112.61489,69.043224 c 0,-10.725075 0,-10.725075 0,-10.725075"
+       d="m 44.536947,256.141 c 0,-10.72507 0,-10.72507 0,-10.72507"
        id="path2381-4"
        inkscape:connector-curvature="0" />
     <rect
@@ -199,64 +210,65 @@
        id="rect2385-9"
        width="14.99199"
        height="4.9565573"
-       x="105.05267"
-       y="69.148666" />
+       x="36.974731"
+       y="256.24646" />
     <rect
        style="opacity:0.5;fill:#000000;fill-opacity:0;fill-rule:nonzero;stroke:#000000;stroke-width:0.26458332;stroke-opacity:1"
        id="rect2585"
        width="6.9453125"
        height="4.9609375"
-       x="81.129387"
-       y="96.374184" />
+       x="13.051444"
+       y="283.47195" />
     <rect
        style="opacity:0.5;fill:#000000;fill-opacity:0;fill-rule:nonzero;stroke:#000000;stroke-width:0.26458332;stroke-opacity:1"
        id="rect2585-2"
        width="6.9453125"
        height="4.9609375"
-       x="102.95753"
-       y="96.374184" />
+       x="34.879585"
+       y="283.47195" />
     <rect
        style="opacity:0.25;fill:url(#meshgradient2683);fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.26458332;stroke-opacity:1"
        id="rect2585-7"
        width="6.9453125"
        height="4.9609375"
-       x="95.575264"
-       y="-97.594315"
+       x="282.67303"
+       y="-29.516373"
        transform="rotate(90)" />
     <path
        style="fill:none;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 88.008557,98.821573 c 4.564062,0.0661 4.597135,0.0661 4.597135,0.0661"
+       d="m 19.930614,285.91935 c 4.564062,0.0661 4.597135,0.0661 4.597135,0.0661"
        id="path2648"
        inkscape:connector-curvature="0" />
     <path
        style="fill:none;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 97.665848,98.953863 c 5.291662,-0.0992 5.291662,-0.0992 5.291662,-0.0992"
+       d="m 29.587905,286.05164 c 5.291662,-0.0992 5.291662,-0.0992 5.291662,-0.0992"
        id="path2654"
        inkscape:connector-curvature="0" />
     <path
        style="fill:none;stroke:#000000;stroke-width:0.14256172px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 78.715047,98.854643 c 2.381251,0 2.381251,0 2.381251,0"
+       d="m 10.637104,285.95242 c 2.381251,0 2.381251,0 2.381251,0"
        id="path2656"
        inkscape:connector-curvature="0" />
     <path
        style="fill:none;stroke:#000000;stroke-width:0.14550143px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 109.83669,98.854663 c 2.48046,0 2.48046,0 2.48046,0"
+       d="m 41.758747,285.95244 c 2.48046,0 2.48046,0 2.48046,0"
        id="path2656-2"
        inkscape:connector-curvature="0" />
     <path
        style="fill:none;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 78.710875,77.331174 c 0.0042,21.523469 0.0042,21.523469 0.0042,21.523469"
+       d="m 10.632932,264.42895 c 0.0042,21.52347 0.0042,21.52347 0.0042,21.52347"
        id="path2697"
        inkscape:connector-curvature="0" />
     <path
        style="fill:none;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 112.38683,77.063905 c -0.0697,21.790758 -0.0697,21.790758 -0.0697,21.790758"
+       d="m 44.308887,264.16169 c -0.0697,21.79075 -0.0697,21.79075 -0.0697,21.79075"
        id="path2699"
        inkscape:connector-curvature="0" />
     <flowRoot
        xml:space="preserve"
        id="flowRoot2703"
-       style="fill:black;fill-opacity:1;stroke:none;font-family:sans-serif;font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;letter-spacing:0px;word-spacing:0px"><flowRegion
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       transform="translate(-68.077943,187.09778)"><flowRegion
          id="flowRegion2705"><rect
            id="rect2707"
            width="104.5"
@@ -266,68 +278,57 @@
          id="flowPara2709" /></flowRoot>    <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-       x="73.775856"
-       y="65.364304"
+       x="5.6979132"
+       y="252.46208"
        id="text2713"><tspan
          sodipodi:role="line"
-         x="73.775856"
-         y="65.364304"
+         x="5.6979132"
+         y="252.46208"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.46944451px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332"
          id="tspan2719">Hot piston</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-       x="106.61325"
-       y="47.999031"
+       x="38.535309"
+       y="235.09682"
        id="text2713-7"><tspan
          sodipodi:role="line"
-         x="106.61325"
-         y="47.999031"
+         x="38.535309"
+         y="235.09682"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.46944451px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332"
          id="tspan2719-7">Cold piston</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-       x="89.402763"
-       y="105.8415"
+       x="21.32482"
+       y="292.93927"
        id="text2713-7-6"><tspan
          sodipodi:role="line"
-         x="89.402763"
-         y="105.8415"
+         x="21.32482"
+         y="292.93927"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.46944451px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332"
          id="tspan2719-7-0">Regenerator</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-       x="105.23058"
-       y="104.85738"
+       x="37.152641"
+       y="291.95517"
        id="text2713-7-2"><tspan
          sodipodi:role="line"
-         x="105.23058"
-         y="104.85738"
+         x="37.152641"
+         y="291.95517"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.46944451px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332"
          id="tspan2719-7-2">Cooler</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-       x="78.772224"
-       y="104.85738"
+       x="10.694282"
+       y="291.95517"
        id="text2713-7-8"><tspan
          sodipodi:role="line"
-         x="78.772224"
-         y="104.85738"
+         x="10.694282"
+         y="291.95517"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.46944451px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332"
          id="tspan2719-7-02">Heater</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-       x="92.666656"
-       y="33.259857"
-       id="text2713-7-1"><tspan
-         sodipodi:role="line"
-         x="92.666656"
-         y="33.259857"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.46944451px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332"
-         id="tspan2719-7-3">Alpha</tspan></text>
   </g>
 </svg>
