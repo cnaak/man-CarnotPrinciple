@@ -1,0 +1,51 @@
+%-----------------------------------------------------------------------------------------------
+\makeatletter
+\immediate\write18{datelog > \jobname.info}
+\makeatother
+%-----------------------------------------------------------------------------------------------
+% Journal information
+\JournalInfo{engrXiv}
+\Archive{\input{\jobname.info}revision}
+% Article title
+\PaperTitle{}
+\Authors{%
+    C.~Naaktgeboren\textsuperscript{1$\star$},
+    K.~A.~É.~Beck\textsuperscript{2},
+    J-M.~S.~Lafay\textsuperscript{3}
+}
+\affiliation{%
+    \textsuperscript{1}%
+    \textit{%
+        Universidade Tecnológica Federal do Paraná -- UTFPR, Câmpus Guarapuava.
+        Grupo de Pesquisa em Ciências Térmicas.
+}}
+\affiliation{%
+    \textsuperscript{2}%
+    \textit{%
+        Universidade Tecnológica Federal do Paraná -- UTFPR, Câmpus Pato Branco.
+        Programa de Pós-Graduação em Engenharia Elétrica -- PPGEE.
+        Grupo de Pesquisa em Ciências Térmicas.
+}}
+\affiliation{%
+    \textsuperscript{3}%
+    \textit{%
+        Universidade Tecnológica Federal do Paraná -- UTFPR, Câmpus Pato Branco.
+        Programa de Pós-Graduação em Engenharia Elétrica -- PPGEE.
+}}
+\affiliation{%
+    \textsuperscript{$\star$}%
+    \textbf{Corresponding  author}: NaaktgeborenC$\cdot$PhD@gmail$\cdot$com
+}
+\Keywords{keyword1 --- keyword2 --- etc...}
+\newcommand{\keywordname}{Keywords}
+\Highlights{%
+    Highlight1 ---
+    Highlight2 ---
+    etc...
+}
+\newcommand{\highlightname}{Highlights}
+%-----------------------------------------------------------------------------------------------
+\Abstract{%
+    Work in progress... Here goes the Abstract
+}
+%-----------------------------------------------------------------------------------------------
