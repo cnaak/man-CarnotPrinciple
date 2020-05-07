@@ -17,38 +17,7 @@
    sodipodi:docname="stirling_engine_gamma_color.svg"
    inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)">
   <defs
-     id="defs2">
-    <meshgradient
-       inkscape:collect="always"
-       id="meshgradient3627"
-       gradientUnits="userSpaceOnUse"
-       x="98.755798"
-       y="-184.93764"
-       gradientTransform="translate(229.97223,58.737536)">
-      <meshrow
-         id="meshrow3629">
-        <meshpatch
-           id="meshpatch3631">
-          <stop
-             path="c 2.3151,0  4.63021,0  6.94531,0"
-             style="stop-color:#ffffff;stop-opacity:1"
-             id="stop3633" />
-          <stop
-             path="c 0,1.65365  0,3.30729  0,4.96094"
-             style="stop-color:#000000;stop-opacity:1"
-             id="stop3635" />
-          <stop
-             path="c -2.3151,0  -4.63021,0  -6.94531,0"
-             style="stop-color:#ffffff;stop-opacity:1"
-             id="stop3637" />
-          <stop
-             path="c 0,-1.65365  0,-3.30729  0,-4.96094"
-             style="stop-color:#000000;stop-opacity:1"
-             id="stop3639" />
-        </meshpatch>
-      </meshrow>
-    </meshgradient>
-  </defs>
+     id="defs2" />
   <sodipodi:namedview
      id="base"
      pagecolor="#ffffff"
@@ -56,9 +25,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="2.7852273"
+     inkscape:zoom="3.225"
      inkscape:cx="146.66667"
-     inkscape:cy="146.66667"
+     inkscape:cy="126.66667"
      inkscape:document-units="pt"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -106,21 +75,21 @@
            x="258.5"
            y="225.51968" /></flowRegion><flowPara
          id="flowPara2709" /></flowRoot>    <rect
-       style="opacity:0.5;fill:#000000;fill-opacity:0;fill-rule:nonzero;stroke:#000000;stroke-width:0.26458332;stroke-opacity:1"
+       style="opacity:1;fill:#8181ff;fill-opacity:0.98431373;fill-rule:nonzero;stroke:#000000;stroke-width:0.26458332;stroke-opacity:1"
        id="rect2585-3"
        width="6.9453125"
        height="4.9609375"
        x="41.148354"
        y="283.47195" />
     <rect
-       style="opacity:0.5;fill:#000000;fill-opacity:0;fill-rule:nonzero;stroke:#000000;stroke-width:0.26458332;stroke-opacity:1"
+       style="opacity:1;fill:#ff8181;fill-opacity:0.99215686;fill-rule:nonzero;stroke:#000000;stroke-width:0.26458332;stroke-opacity:1"
        id="rect2585-2-84"
        width="6.9453125"
        height="4.9609375"
        x="62.976418"
        y="283.47195" />
     <rect
-       style="opacity:0.25;fill:url(#meshgradient3627);fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.26458332;stroke-opacity:1"
+       style="opacity:1;fill:#cccccc;fill-opacity:0.98290598;fill-rule:nonzero;stroke:#000000;stroke-width:0.26458332;stroke-opacity:1"
        id="rect2585-7-5"
        width="6.9453125"
        height="4.9609375"
@@ -179,7 +148,7 @@
        id="path2381-4-3-3"
        inkscape:connector-curvature="0" />
     <rect
-       style="fill:#3700bb;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.28487414;stroke-opacity:1"
+       style="fill:#917c6f;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.28487414;stroke-opacity:1"
        id="rect2385-9-9-7"
        width="14.99199"
        height="4.9565573"
@@ -213,7 +182,7 @@
        id="path2381-4-3-0"
        inkscape:connector-curvature="0" />
     <rect
-       style="fill:#c21500;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.28487414;stroke-opacity:1"
+       style="fill:#917c6f;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.28487414;stroke-opacity:1"
        id="rect2385-9-9-49"
        width="14.99199"
        height="4.9565573"
