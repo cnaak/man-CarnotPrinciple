@@ -29,20 +29,25 @@
     $\gamma$-types)  phase  angle.  For  all  engine  configurations   the   expansion   volume,
     $V_e(\phi)$, is:
     %
-    \begin{equation}
+    \begin{align}
         \label{eq:Ve}
-        V_e(\phi) = V^{\alpha}_e(\phi) = V^{\beta}_e(\phi) = V^{\gamma}_e(\phi) = V_{emin} + \frac{1}{2} V_{es}(1 + \sin(\phi + \alpha)).
-    \end{equation}
+        V_e(\phi) &= V^{\alpha}_e(\phi) = V^{\beta}_e(\phi) = V^{\gamma}_e(\phi) \nonumber\\
+                  &= V_{emin} + \frac{1}{2} V_{es}(1 + \sin(\phi + \alpha)).
+    \end{align}
 
-    The compression volume, $V_c(\phi)$, is configuration-dependent:
+    The compression volume, $V_c(\phi)$, is configuration dependent:
     %
     \begin{align}
         \label{eq:Vca}
         V^{\alpha}_c(\phi) &= V_{cmin} + \frac{1}{2} V_{es} \kappa (1 + \sin(\phi)), \\
         \label{eq:Vcb}
-        V^{\beta}_c(\phi)  &= V_{cmin} + \frac{1}{2} V_{es} (\sqrt{1 - 2\kappa\cos\alpha + \kappa^2} + \kappa\sin\phi - \sin(\phi + \alpha)), \\
+        V^{\beta}_c(\phi)  &= V_{cmin} +
+            \frac{1}{2} V_{es} (\sqrt{1 - 2\kappa\cos\alpha + \kappa^2} \nonumber\\
+                           &+ \kappa\sin\phi - \sin(\phi + \alpha)), \\
         \label{eq:Vcg}
-        V^{\gamma}_c(\phi) &= V_{cmin} + \frac{1}{2} V_{es} (1 + \kappa + \kappa\sin\phi - \sin(\phi + \alpha)),
+        V^{\gamma}_c(\phi) &= V_{cmin} + \frac{1}{2} V_{es}
+            (1 + \kappa + \kappa\sin\phi \nonumber\\
+                           &- \sin(\phi + \alpha)),
     \end{align}
     %
     \noindent where $\kappa \equiv V_{cs}/V_{es}$ is the engine sweep volume ratio.
@@ -53,7 +58,7 @@
 
     Let the total engine volume---the instantaneous volume  occupied  by  the  engine's  working
     fluid,  $V(\phi)  =  V_e(\phi)  +  V_c(\phi)  +   V_r$,   be   written   in   terms   of   a
-    configuration-dependent dimensionless function most generally written as $\Phi(\phi |  \chi,
+    configuration dependent dimensionless function most generally written as $\Phi(\phi |  \chi,
     \kappa, \alpha)$, i.e., in terms of parameters $\chi, \kappa, \alpha$, so  that  $V(\phi)  =
     V_{es}\Phi(\phi | \chi, \kappa, \alpha)$, with:
     %
@@ -89,7 +94,7 @@
     general proposition is to hold, the thermal efficiency of the exemplified  Stirling  engines
     must be a function of $\tau$ only.
 
-    The  dimensionless  pressure  function  is  a  multi-term,  engine   configuration-dependent
+    The  dimensionless  pressure  function  is  a  multi-term,  engine   configuration dependent
     expression:
     %
     \begin{align}
