@@ -10,8 +10,8 @@
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="180pt"
-   height="200pt"
-   viewBox="0 0 63.500002 70.555555"
+   height="180pt"
+   viewBox="0 0 63.500002 63.499999"
    version="1.1"
    id="svg8"
    sodipodi:docname="stirling_engine_beta_color.svg"
@@ -25,9 +25,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="2.7852273"
-     inkscape:cx="122.03999"
-     inkscape:cy="146.66667"
+     inkscape:zoom="3.4041667"
+     inkscape:cx="120"
+     inkscape:cy="120"
      inkscape:document-units="pt"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -54,7 +54,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -62,12 +62,12 @@
      inkscape:label="Camada 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(0,-226.44446)">
+     transform="translate(0,-233.50002)">
     <flowRoot
        xml:space="preserve"
        id="flowRoot2703"
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
-       transform="translate(-68.350574,183.91726)"><flowRegion
+       transform="translate(-68.350574,185.94182)"><flowRegion
          id="flowRegion2705"><rect
            id="rect2707"
            width="104.5"
@@ -80,61 +80,61 @@
        width="6.9453125"
        height="4.9609375"
        x="27.627094"
-       y="283.47195" />
+       y="285.49652" />
     <rect
        style="opacity:1;fill:#ff8181;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.26458332;stroke-opacity:1"
        id="rect2585-2-8"
        width="6.9453125"
        height="4.9609375"
        x="49.455219"
-       y="283.47195" />
+       y="285.49652" />
     <rect
        style="opacity:1;fill:#cccccc;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.26458332;stroke-opacity:1"
        id="rect2585-7-3"
        width="6.9453125"
        height="4.9609375"
-       x="282.67303"
+       x="284.6976"
        y="-44.091995"
        transform="rotate(90)" />
     <path
        style="fill:none;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 34.506266,285.91936 c 4.56409,0.0661 4.59716,0.0661 4.59716,0.0661"
+       d="m 34.506266,287.94392 c 4.56409,0.0661 4.59716,0.0661 4.59716,0.0661"
        id="path2648-7"
        inkscape:connector-curvature="0" />
     <path
        style="fill:none;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 44.163606,286.05165 c 5.2917,-0.0992 5.2917,-0.0992 5.2917,-0.0992"
+       d="m 44.163606,288.07621 c 5.2917,-0.0992 5.2917,-0.0992 5.2917,-0.0992"
        id="path2654-5"
        inkscape:connector-curvature="0" />
     <path
-       style="fill:none;stroke:#000000;stroke-width:0.14256173px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 25.212739,285.95243 c 2.381251,0 2.381251,0 2.381251,0"
+       style="fill:none;stroke:#000000;stroke-width:0.26458334;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
+       d="m 25.212739,287.97699 c 2.381251,0 2.381251,0 2.381251,0"
        id="path2656-5"
        inkscape:connector-curvature="0" />
     <path
-       style="fill:none;stroke:#000000;stroke-width:0.14550143px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 56.334516,285.95245 c 2.48048,0 2.48048,0 2.48048,0"
+       style="fill:none;stroke:#000000;stroke-width:0.26458334;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
+       d="m 56.334516,287.97701 c 2.48048,0 2.48048,0 2.48048,0"
        id="path2656-2-6"
        inkscape:connector-curvature="0" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.46944451px;line-height:1.25;font-family:'SBL BibLit';-inkscape-font-specification:'SBL BibLit, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-       x="35.371288"
-       y="292.93927"
+       x="35.291714"
+       y="282.51413"
        id="text2713-7-6-0"><tspan
          sodipodi:role="line"
-         x="35.371288"
-         y="292.93927"
+         x="35.291714"
+         y="282.51413"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.46944451px;font-family:'SBL BibLit';-inkscape-font-specification:'SBL BibLit, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332"
          id="tspan2719-7-0-3">Regenerator</tspan></text>
     <path
        style="fill:none;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 11.466673,249.78105 c 39.999873,-0.018 39.999873,-0.018 39.999873,-0.018 -0.007,-15 -0.007,-15 -0.007,-15 -39.999883,0.018 -39.999883,0.018 -39.999883,0.018"
+       d="m 11.466673,251.80561 c 39.999873,-0.018 39.999873,-0.018 39.999873,-0.018 -0.007,-15 -0.007,-15 -0.007,-15 -39.999883,0.018 -39.999883,0.018 -39.999883,0.018"
        id="path2324-2"
        inkscape:connector-curvature="0" />
     <path
        style="fill:none;stroke:#000000;stroke-width:0.21369077px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 39.166136,242.25142 c -10.725049,0.005 -10.725049,0.005 -10.725049,0.005"
+       d="m 39.166136,244.27598 c -10.725049,0.005 -10.725049,0.005 -10.725049,0.005"
        id="path2381-4-3"
        inkscape:connector-curvature="0" />
     <rect
@@ -142,22 +142,22 @@
        id="rect2385-9-9"
        width="14.99199"
        height="4.9565573"
-       x="-249.76863"
-       y="39.163349"
+       x="-251.79318"
+       y="39.162441"
        transform="rotate(-90.025725)" />
     <path
        style="fill:none;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 51.373416,242.59382 c 7.34219,0.13229 7.34219,0.13229 7.34219,0.13229"
+       d="m 51.373416,244.61838 c 7.34219,0.13229 7.34219,0.13229 7.34219,0.13229"
        id="path3089"
        inkscape:connector-curvature="0" />
     <path
        style="fill:none;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 58.715606,242.72611 c 0.0994,43.22634 0.0994,43.22634 0.0994,43.22634"
+       d="m 58.715606,244.75067 c 0.0994,43.22634 0.0994,43.22634 0.0994,43.22634"
        id="path3093"
        inkscape:connector-curvature="0" />
     <path
        style="fill:none;stroke:#000000;stroke-width:0.21369077px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 14.252797,242.25511 c -10.725019,0.005 -10.725019,0.005 -10.725019,0.005"
+       d="m 14.252797,244.27967 c -10.725019,0.005 -10.725019,0.005 -10.725019,0.005"
        id="path2381-4-3-1"
        inkscape:connector-curvature="0" />
     <rect
@@ -165,56 +165,58 @@
        id="rect2385-9-9-4"
        width="14.99199"
        height="4.9565573"
-       x="-249.76117"
-       y="14.309101"
+       x="-251.78572"
+       y="14.308192"
        transform="rotate(-90.025725)" />
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:2.46944452px;line-height:1.25;font-family:'SBL BibLit';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332;-inkscape-font-specification:'SBL BibLit, Normal';font-stretch:normal;font-variant:normal;text-anchor:start;text-align:start;writing-mode:lr;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;"
-       x="6.4308209"
-       y="230.67426"
-       id="text2713-7-8-6-4"><tspan
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.46944451px;line-height:1.25;font-family:'SBL BibLit';-inkscape-font-specification:'SBL BibLit, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="-251.04872"
+       y="17.744421"
+       id="text2713-7-8-6-4"
+       transform="rotate(-90)"><tspan
          sodipodi:role="line"
-         x="6.4308209"
-         y="230.67426"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.46944452px;font-family:'SBL BibLit';-inkscape-font-specification:'SBL BibLit, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr;text-anchor:start;stroke-width:0.26458332;"
-         id="tspan2719-7-02-1-2">Power piston</tspan></text>
+         x="-251.04872"
+         y="17.744421"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.46944451px;font-family:'SBL BibLit';-inkscape-font-specification:'SBL BibLit, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332"
+         id="tspan2719-7-02-1-2">Power Piston</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:2.46944452px;line-height:1.25;font-family:'SBL BibLit';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332;-inkscape-font-specification:'SBL BibLit, Normal';font-stretch:normal;font-variant:normal;text-anchor:start;text-align:start;writing-mode:lr;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;"
-       x="45.684544"
-       y="230.9549"
-       id="text2713-7-8-6-3"><tspan
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.46944451px;line-height:1.25;font-family:'SBL BibLit';-inkscape-font-specification:'SBL BibLit, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="-249.17606"
+       y="42.356308"
+       id="text2713-7-8-6-3"
+       transform="rotate(-90)"><tspan
          sodipodi:role="line"
-         x="45.684544"
-         y="230.9549"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.46944452px;font-family:'SBL BibLit';-inkscape-font-specification:'SBL BibLit, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr;text-anchor:start;stroke-width:0.26458332;"
+         x="-249.17606"
+         y="42.356308"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.46944451px;font-family:'SBL BibLit';-inkscape-font-specification:'SBL BibLit, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332"
          id="tspan2719-7-02-1-3">Displacer</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:2.46944452px;line-height:1.25;font-family:'SBL BibLit';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332;-inkscape-font-specification:'SBL BibLit, Normal';font-stretch:normal;font-variant:normal;text-anchor:start;text-align:start;writing-mode:lr;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;"
-       x="50.794018"
-       y="291.42236"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.46944451px;line-height:1.25;font-family:'SBL BibLit';-inkscape-font-specification:'SBL BibLit, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="50.528065"
+       y="293.44693"
        id="text2713-7-8-6-7"><tspan
          sodipodi:role="line"
-         x="50.794018"
-         y="291.42236"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.46944452px;font-family:'SBL BibLit';-inkscape-font-specification:'SBL BibLit, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr;text-anchor:start;stroke-width:0.26458332;"
+         x="50.528065"
+         y="293.44693"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.46944451px;font-family:'SBL BibLit';-inkscape-font-specification:'SBL BibLit, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332"
          id="tspan2719-7-02-1-34">eHX</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:2.46944452px;line-height:1.25;font-family:'SBL BibLit';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332;-inkscape-font-specification:'SBL BibLit, Normal';font-stretch:normal;font-variant:normal;text-anchor:start;text-align:start;writing-mode:lr;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;"
-       x="28.64275"
-       y="291.40863"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.46944451px;line-height:1.25;font-family:'SBL BibLit';-inkscape-font-specification:'SBL BibLit, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="28.719233"
+       y="293.4332"
        id="text2713-7-2-2-7"><tspan
          sodipodi:role="line"
-         x="28.64275"
-         y="291.40863"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.46944452px;font-family:'SBL BibLit';-inkscape-font-specification:'SBL BibLit, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr;text-anchor:start;stroke-width:0.26458332;"
+         x="28.719233"
+         y="293.4332"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.46944451px;font-family:'SBL BibLit';-inkscape-font-specification:'SBL BibLit, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332"
          id="tspan2719-7-2-0-4">cHX</tspan></text>
     <path
        style="fill:none;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 25.212739,285.95243 c -0.0331,-36.14871 -0.0331,-36.14871 -0.0331,-36.14871"
+       d="m 25.212739,287.97699 c -0.0331,-36.14871 -0.0331,-36.14871 -0.0331,-36.14871"
        id="path3641"
        inkscape:connector-curvature="0" />
   </g>
