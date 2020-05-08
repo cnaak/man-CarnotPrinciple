@@ -82,7 +82,8 @@
             \frac{1}{2}(1 \nonumber\\
             &+ \sqrt{1 - 2\kappa\cos\alpha + \kappa^2}),\\
         \label{eq:Phig}
-        \Phi^{\gamma}(\phi | \chi, \kappa) &= \chi + \frac{1}{2}(2 + \kappa) + \frac{1}{2}\kappa\sin\phi.
+        \Phi^{\gamma}(\phi | \chi, \kappa) &= \chi + \frac{1}{2}(2 + \kappa)
+            + \frac{1}{2}\kappa\sin\phi.
     \end{align}
     %
     \noindent where $\chi \equiv V_{d}/V_{es}$ is the engine dead  volume  ratio.  It  is  worth
@@ -97,7 +98,8 @@
     %
     \begin{equation}
         \label{eq:P}
-        p = \frac{mR}{\frac{V_e}{T_e} + \frac{V_c}{T_c} + \frac{V_d}{T_d}} = \frac{mRT_e}{V_{es}}\Psi(\phi | \alpha, \kappa, \tau, \chi),
+        p = \frac{mR}{\frac{V_e}{T_e} + \frac{V_c}{T_c} + \frac{V_d}{T_d}}
+          = \frac{mRT_e}{V_{es}}\Psi(\phi | \alpha, \kappa, \tau, \chi),
     \end{equation}
     %
     \noindent where $T_e$, $T_c$, and $T_d \equiv (T_e + T_c)/2$ are the expansion, compression,
@@ -116,20 +118,20 @@
         \frac{1}{\Psi^{\alpha}(\phi)} &=
                 \frac{2\chi}{1 + \tau} +
                 \frac{\kappa + \tau}{2\tau} +
-                \frac{\kappa\sin\phi}{2\tau} +
-                \frac{\sin(\phi + \alpha)}{2},\\
+                \frac{\kappa\sin\phi}{2\tau} \nonumber\\
+            &+  \frac{\sin(\phi + \alpha)}{2},\\
         \label{eq:Psib}
         \frac{1}{\Psi^{\beta}(\phi)}  &=
                 \frac{2\chi}{1 + \tau} +
-                \frac{\tau + \sqrt{1 - 2\kappa\cos\alpha + \kappa^2}}{2\tau} +
-                \frac{\kappa\sin\phi}{2\tau} +
+                \frac{\tau + \sqrt{1 - 2\kappa\cos\alpha + \kappa^2}}{2\tau} \nonumber\\
+            &+  \frac{\kappa\sin\phi}{2\tau} +
                 \frac{(\tau - 1)\sin(\phi + \alpha)}{2\tau},\\
         \label{eq:Psig}
         \frac{1}{\Psi^{\gamma}(\phi)} &=
                 \frac{2\chi}{1 + \tau} +
                 \frac{1 + \tau + \kappa}{2\tau} +
-                \frac{\kappa\sin\phi}{2\tau} +
-                \frac{(\tau - 1)\sin(\phi + \alpha)}{2\tau}.
+                \frac{\kappa\sin\phi}{2\tau} \nonumber\\
+            &+  \frac{(\tau - 1)\sin(\phi + \alpha)}{2\tau}.
     \end{align}
 
     The $RT_e$-normalized (i)~specific net cycle work, $\bar{W}$, and (ii)~specific inlet  cycle
@@ -137,11 +139,13 @@
     %
     \begin{align}
         \label{eq:W}
-        \bar{W}         &= \frac{\oint p\,\difff(V/m)}{RT_e}
-                         = \int_0^{2\pi} \Psi(\phi | \alpha, \kappa, \tau, \chi) \frac{\partial\Phi(\phi | \chi, \kappa, \alpha)}{\partial\phi}\,\difff\phi,\\
+        \bar{W} &= \frac{\oint p\,\difff(V/m)}{RT_e} \nonumber\\
+                &= \int_0^{2\pi} \Psi(\phi | \alpha, \kappa, \tau, \chi)
+                   \frac{\partial\Phi(\phi | \chi, \kappa, \alpha)}{\partial\phi}\,\difff\phi,\\
         \label{eq:Q}
-        \bar{Q}_{in}    &= \frac{\oint p\,\difff(V_e/m)}{RT_e}
-                         = \frac{1}{2} \int_0^{2\pi} \Psi(\phi | \alpha, \kappa, \tau, \chi) \cos(\phi + \alpha) \,\difff\phi,
+        \bar{Q}_{in} &= \frac{\oint p\,\difff(V_e/m)}{RT_e} \nonumber\\
+                     &= \frac{1}{2} \int_0^{2\pi} \Psi(\phi | \alpha, \kappa, \tau, \chi)
+                        \cos(\phi + \alpha) \,\difff\phi,
     \end{align}
     %
     \noindent where the  variable  and  parameter  dependencies  of  the  integrands  were  made
