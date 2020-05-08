@@ -57,18 +57,32 @@
     internal details''.
 
     Let the total engine volume---the instantaneous volume  occupied  by  the  engine's  working
-    fluid,  $V(\phi)  =  V_e(\phi)  +  V_c(\phi)  +   V_r$,   be   written   in   terms   of   a
-    configuration dependent dimensionless function most generally written as $\Phi(\phi |  \chi,
-    \kappa, \alpha)$, i.e., in terms of parameters $\chi, \kappa, \alpha$, so  that  $V(\phi)  =
-    V_{es}\Phi(\phi | \chi, \kappa, \alpha)$, with:
+    fluid,
+    %
+    \begin{equation}
+        V(\phi) = V_e(\phi) + V_c(\phi) + V_r,
+    \end{equation}
+    %
+    \noindent be written in terms of  a  configuration  dependent  dimensionless  function  most
+    generally written as $\Phi(\phi | \chi, \kappa,  \alpha)$,  i.e.,  in  terms  of  parameters
+    $\chi$, $\kappa$ and $\alpha$, so that
+    %
+    \begin{equation}
+        V(\phi) = V_{es}\Phi(\phi | \chi, \kappa, \alpha),
+    \end{equation}
+    %
+    \noindent with:
     %
     \begin{align}
         \label{eq:Phia}
-        \Phi^{\alpha}(\phi | \chi, \kappa, \alpha)  &= \chi + \frac{1}{2}(1 + \kappa) + \frac{1}{2}(\sin(\phi + \alpha) + \kappa\sin\phi),\\
+        \Phi^{\alpha}(\phi | \chi, \kappa, \alpha) &= \chi + \frac{1}{2}(1 + \kappa) \nonumber\\
+            &+ \frac{1}{2}(\sin(\phi + \alpha) + \kappa\sin\phi),\\
         \label{eq:Phib}
-        \Phi^{\beta}(\phi | \chi, \kappa, \alpha)   &= \chi + \frac{1}{2}(1 + \sqrt{1 - 2\kappa\cos\alpha + \kappa^2}) + \frac{1}{2}\kappa\sin\phi,\\
+        \Phi^{\beta}(\phi | \chi, \kappa, \alpha) &= \chi + \frac{1}{2}\kappa\sin\phi +
+            \frac{1}{2}(1 \nonumber\\
+            &+ \sqrt{1 - 2\kappa\cos\alpha + \kappa^2}),\\
         \label{eq:Phig}
-        \Phi^{\gamma}(\phi | \chi, \kappa)          &= \chi + \frac{1}{2}(2 + \kappa) + \frac{1}{2}\kappa\sin\phi.
+        \Phi^{\gamma}(\phi | \chi, \kappa) &= \chi + \frac{1}{2}(2 + \kappa) + \frac{1}{2}\kappa\sin\phi.
     \end{align}
     %
     \noindent where $\chi \equiv V_{d}/V_{es}$ is the engine dead  volume  ratio.  It  is  worth
