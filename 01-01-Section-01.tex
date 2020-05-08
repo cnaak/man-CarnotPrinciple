@@ -1,7 +1,105 @@
 %-----------------------------------------------------------------------------------------------
 \section{Introduction}
 
-    Text...
+    The subject of the second law  of  thermodynamics  figures  amidst  the  most  philosophical
+    teaching topics in mechanical engineering. Many studies have been produced around the  theme
+    of pedagogical improvements in presenting the second law of thermodynamics, under a  variety
+    of    strategies~\cite{1995-MoukalledF+NuwayhidRY-IJMEE,     1996-KaufmanR+SheldonE-AmJPhys,
+    1997-BejanA-IJMEE,              1997-DunbarWR+LiorN-IJMEE,               2011-LewinsJ-IJMEE,
+    2015-BeaubouefSr-IntJMechEngEduc}.
+
+    One of the key concepts covered  in  textbook  presentations  of  the  second  law  are  the
+    so-called          Carnot          principles~\cite{2013-CengelYA+BolesMA-AMGH}           or
+    corolaries~\cite{2002-MoranMJ+ShapiroHN-LTC}, or  claim~\cite[p.~88]{2006-BejanA-Wiley},  or
+    even deductions than make up  one  principle~\cite{1986-JonesJB+HawkinsGA-Wiley}---different
+    sources attribute different names and list a varying number of what Carnot has mostly called
+    \emph{propositions}~\cite{1897-ThurstonRH-Wiley}, without labeling them, except for the ones
+    that he named ``fundamental'' and ``general''.
+
+    Carnot's fundamental proposition is a statement of a necessary condition for heat engines to
+    attain ``maximum'' work production from heat~\cite[p.~56]{1897-ThurstonRH-Wiley}:
+
+    \begin{quote}
+        \it
+        ``[...] that in the bodies employed to realize the motive  power
+        of heat there should not occur any change of  temperature  which
+        may not be due to a change of volume.''
+    \end{quote}
+
+    Recall his work appears many  years  before  the  second  law  of  thermodynamics  had  been
+    established, and the properties we now use, such as entropy, had been  invented.  In  modern
+    terms, Carnot's fundamental proposition can be  paraphrased  as  ``the  temperature  of  the
+    working fluid can only change during isentropic changes in  volume'',  recalling  that  both
+    friction and heat transfer irreversibilities would cause the fluid to experience temperature
+    changes that could not be explained by adiabatic and reversible change in volume.
+
+    Carnot's general proposition, on the other hand, is the generalization  of  his  fundamental
+    proposition, and states that~\cite[p.~68]{1897-ThurstonRH-Wiley}:
+
+    \begin{quote}
+        \it
+        ``The motive power of heat is independent of the agents employed
+        to realize it; its quantity is fixed solely by the  temperatures
+        of the bodies between, which is effected, finally, the  transfer
+        of the caloric.''
+    \end{quote}
+
+    Meaning, in current thermodynamic terms, that the maximum work producing potential  of  heat
+    is independent of the working fluid substance employed in its production,  being  determined
+    only by the temperatures\footnote{Note the plural which embeds what would later on  make  up
+    the Kelvin-Planck statement of the second law.} in which heat is  being  transfered.  Modern
+    texts make it explicit that such  work  producing  potential  is  also  independent  on  the
+    engine's internal details~\cite{2013-CengelYA+BolesMA-AMGH}, or, equivalently,  sequence  of
+    processes~\cite{2002-MoranMJ+ShapiroHN-LTC} of the reversible machines.
+
+    Carnot's general proposition is typically presented to mechanical  engineering  students  in
+    the context of the second law of thermodynamics in the form of a  statement  followed  by  a
+    proof   by    contradiction~\cite{2013-CengelYA+BolesMA-AMGH,    2002-MoranMJ+ShapiroHN-LTC,
+    1986-JonesJB+HawkinsGA-Wiley},  using  second  law  concepts  and  abstractions,  i.e.,   by
+    proposing a violation of the general proposition and showing in the conceptual realm that it
+    leads to a violation of a statement of the second law of thermodynamics---a method  that  is
+    both sufficient and general from a mathematical viewpoint.
+
+    Despite the mathematical fitness of this approach, it lacks concrete examples. In one  hand,
+    one may argue that lack of concrete examples may  pose  unnecessary  extra  difficulties  on
+    learners; on the other hand, the proposition's phrasing seems to beg for concrete  examples,
+    as it mentions concrete things such as working fluids and engine internal details.
+
+    Keen and attentive students may correctly wonder that both heat intake and net  work  output
+    done by reversible models of different real engines may be written as complicated  functions
+    of the engines' internal details, working fluid properties, and reservoir temperatures---and
+    wonder how all these things may fit together under  the  restrictions  of  Carnot's  general
+    proposition. This work focuses in providing this very analysis, as to serve  as  an  example
+    that can be given alongside (and not in place of) the usual proof by contradiction,  in  the
+    hope of satisfying the concrete aspects  of  Carnot's  general  proposition,  and  learners'
+    curiosities alike.
+
+    Well-known engineering textbook reversible cycles include (i)~the Carnot, (ii)~the Stirling,
+    and (iii)~the Ericson  ones~\cite{2013-CengelYA+BolesMA-AMGH}.  The  Stirling  cycle  is  of
+    peculiar interest for the task due to (i)~the present-time interest  displayed  towards  it;
+    (ii)~the fact that many reversible models are available in  the  literature;  and  (iii)~the
+    existence of three different  engine  configuration  types:  the  $\alpha$-,  $\beta$-,  and
+    $\gamma$-ones---so that variations on engine internal details and operating  parameters  and
+    on working  fluid  can  be  performed  in  the  context  of  illustrating  Carnot's  general
+    proposition.
+
+    Historically,   reversible    Stirling    engine    cycles    have    been    proposed    by
+    Schmidt~\cite{1871-SchmidtG-ZeitVerDeutschIng},                                             
+    Finkelstein~\cite{1960-FinkelsteinT-SAEIntl},   Walker~\cite{1962-WalkerG-JMechEngSci}   and
+    Kirkley~\cite{1962-KirkleyDW-JMechEngSci}. The focus of early works has  been  investigating
+    optimal engine construction and operating parameters.
+
+    More recently, Cheng and Yang~\cite{2012-ChengCH+YangHS-ApEnergy}  developed  a  reversible,
+    dimensionless, and parametric Stirling engine model that accounts not only for working fluid
+    and for engine operating parameters, but also  for  engine  configuration  variation,  i.e.,
+    among the $\alpha$-, the $\beta$-, and the  $\gamma$-types.  Moreover,  they  provide  exact
+    analytical expressions for net work output and for heat inlet that are written in  terms  of
+    the various model parameters and engine internal configurations.
+
+    This work uses Cheng and Yang's model~\cite{2012-ChengCH+YangHS-ApEnergy} in producing  more
+    concrete examples of the validity of Carnot's general proposition than the  usual  proof  by
+    contradiction, that may be of interest to engineering students learning the  second  law  of
+    thermodynamics.
 
 %-----------------------------------------------------------------------------------------------
 
