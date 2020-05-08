@@ -21,6 +21,7 @@ fig/%.pdf: fig/%.svg
 ${PREF}.pdf: ${PREF}.tex 0*tex \
 		cc/by.pdf \
 		fig/stirling_engine_alpha_color.pdf \
+		fig/stirling_engine_beta_color.pdf \
 		bibfile.bib
 	pdflatex --enable-write18 ${PREF}.tex
 	bibtex ${PREF}
