@@ -1,7 +1,58 @@
 %-----------------------------------------------------------------------------------------------
-\section{Section 3}
+\section{Illustrating Carnot's General Proposition on the Stirling Engine Model}
 
-    Text...
+    Solutions to the integrals of Eqs.~(\ref{eq:W}) and (\ref{eq:Q})  are  given  by  Cheng  and
+    Yang~\cite{2012-ChengCH+YangHS-ApEnergy}, which applied the residual theorem and  wrote  the
+    resulting expression as:
+    %
+    \begin{align}
+        \label{eq:Ws}
+        \bar{W}         &=  \frac{2\pi\tau\kappa(1 - \tau)\sin\alpha}{a^2 + b^2}\left(
+                                \frac{\beta - \sqrt{\beta^2 - (a^2 + b^2)}}{\sqrt{\beta^2 - (a^2 + b^2)}}
+                            \right),\\
+        \label{eq:Qs}
+        \bar{Q}_{in}    &=  \frac{2\pi\tau\kappa\sin\alpha}{a^2 + b^2}\left(
+                                \frac{\beta - \sqrt{\beta^2 - (a^2 + b^2)}}{\sqrt{\beta^2 - (a^2 + b^2)}}
+                            \right),
+    \end{align}
+    %
+    \noindent where $a$, $b$, and $\beta$ are configuration-dependent expressions.
+
+    Although the  cycle  net  work,  $\bar{W}$,  and  inlet  heat,  $\bar{Q}_{in}$,  are  indeed
+    \emph{complicated} functions of the engine's configuration, internal  details,  and  of  the
+    reservoir temperatures, as shown by Eqs.~(\ref{eq:Ws}) and (\ref{eq:Qs}), one  can  realize,
+    by mere inspection on these same equations, that the thermal  efficiencies,  $\eta_t  \equiv
+    \bar{W} / \bar{Q}_{in}$, of all these reversible engines  (i)~are  indeed  \emph{the  same};
+    (ii)~are \emph{equal to any reversible engine's} thermal efficiency,  $\eta_{t,rev}  =  1  -
+    \tau$, operating between the same temperature reservoirs; and (iii)~are indeed a function of
+    \emph{only} the reservoirs' temperatures.
+
+    Carnot's general proposition is thus \emph{validated} by reversible models of real  Stirling
+    engine configurations.
+
+    For completeness, the following are the configuration-dependent expressions of $a$, $b$, and
+    $\beta$:
+    %
+    \begin{align}
+        \label{eq:aa}
+        a^{\alpha}  &= \tau\sin\alpha,\\
+        \label{eq:ab}
+        a^{\beta}   &= -(1 - \tau)\sin\alpha,\\
+        \label{eq:ag}
+        a^{\gamma}  &= -(1 - \tau)\sin\alpha;\\
+        \label{eq:ba}
+        b^{\alpha}  &= \kappa + \tau\cos\alpha,\\
+        \label{eq:bb}
+        b^{\beta}   &= \kappa - (1 - \tau)\cos\alpha,\\
+        \label{eq:bg}
+        b^{\gamma}  &= \kappa - (1 - \tau)\cos\alpha;\\
+        \label{eq:betaa}
+        \beta^{\alpha}  &= 4\tau\chi/(1 + \tau) + \tau + \kappa,\\
+        \label{eq:betab}
+        \beta^{\beta}   &= 4\tau\chi/(1 + \tau) + \tau + \sqrt{1 - 2\kappa\cos\alpha + \kappa^2},\\
+        \label{eq:betag}
+        \beta^{\gamma}  &= 4\tau\chi/(1 + \tau) + 1 + \tau + \kappa.
+    \end{align}
 
 %-----------------------------------------------------------------------------------------------
 
